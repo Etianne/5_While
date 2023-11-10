@@ -10,6 +10,7 @@ while contador <= numero:
   contador += 1
 
 
+
 # Exercicio 11
 
 contador = int(input("Digite um número: "))
